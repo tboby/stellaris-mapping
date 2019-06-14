@@ -1,0 +1,15 @@
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Core
+nuget Hekate
+nuget GraphViz.NET
+nuget SixLabors.ImageSharp
+nuget FParsec 1.0.4-RC3
+nuget FSharp.Data 3.0.0-beta
+nuget FSharp.Collections.ParallelSeq
+nuget FSharpPlus
+nuget DotNet.Glob
+nuget FSharpx.Collections
+nuget FSharp.Compiler.Service
+nuget Sandwych.QuickGraph.Core
+nuget FsPickler
